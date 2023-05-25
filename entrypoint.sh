@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'cbee949b-b162-485d-9fcf-f5d8b62679f2'}
 
 # 其他Paas保活
-PAAS1_URL=https://flycanyoume.fly.dev/
+PAAS1_URL=https://flycanyoumedaxzswsa.fly.dev/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
